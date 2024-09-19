@@ -25,7 +25,7 @@ data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. We use @talia, @opendatatoronto, and @rohan.
+We use @talia, @opendatatoronto, and @rohan.
 
 The remainder of this paper is structured as follows. @sec-mydatasection
 
@@ -48,17 +48,11 @@ data |>
 
 As seen in our plot here, we can see that marriages tend to follow a season pattern before COVID-19. After COVID-19, there is an uptick once again in the number of marriage licenses, and there is also much more variance month to month and the seasonal pattern seems to have disappeared.
 
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-
-
-
-
 # Discussion
 
 ## First discussion point {#sec-first-point}
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
+Marriages are very important and interesting to study as they can represent societal trends.
 
 ## Second discussion point
 
@@ -66,7 +60,6 @@ If my paper were 10 pages, then should be be at least 2.5 pages. The discussion 
 
 ## Weaknesses and next steps
 
-Weaknesses and next steps should also be included.
 
 \newpage
 
